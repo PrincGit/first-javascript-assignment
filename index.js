@@ -15,3 +15,6 @@ var addd = first4 + first;
 
 var userid= addd.toLowerCase();
 
+output= fname + "+" + sname 
+alert(output)
+
